@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Adem Alp ŞAHİN</string>
+    <string name="tel_number">+90 546 692 29 64</string>
+    <string name="email">adem.sahin@std.yildiz.edu.tr</string>
+    <string name="location">YTU Davutpasa</string>
+    <string name="title">Computer Engineering Student</string>
+</resources>
