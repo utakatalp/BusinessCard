@@ -1,5 +1,6 @@
 # Business Card App (Android Basics with Jetpack Compose)
 ![image](https://github.com/user-attachments/assets/f3faa57a-7803-43a7-b615-d2861983c696)
+
 This is a beginner-friendly Android project built using **Jetpack Compose**, part of the **Android Basics in Compose** course. The app demonstrates how to create a simple digital business card UI using Composables and layout components.
 
 ## 🧾 Project Overview
