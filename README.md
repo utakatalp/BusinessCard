@@ -69,23 +69,7 @@ The app screen is divided into two main sections:
     <string name="email">example@email.com</string>
     <string name="location">123 Main St, Springfield</string>
 </resources>
-🌈 Customization
-You can update:
-
-Name, title, and contact info
-
-Drawable icons in res/drawable
-
-Colors and typography in ui.theme
-
-To change text color to Android green, for example:
-
-kotlin
-Copy
-Edit
-Text("Example", color = Color(0xFF3DDC84))
 
 
----
 
 Let me know if you'd like this exported as a downloadable file or if you want help generating icons or UI assets!
